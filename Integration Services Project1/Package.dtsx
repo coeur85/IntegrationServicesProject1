@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="10/26/2024 12:06:17 AM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="MAGDI-PC"
+  DTS:CreatorName="MAGDI-PC\magdi"
+  DTS:DTSID="{5045661D-643A-40DF-A9F1-A68C1604948E}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5685.0"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{8F55D0A6-5FC9-4A53-9CC9-B1BCBD36600B}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
