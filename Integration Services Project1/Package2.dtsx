@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package2"
   DTS:PackageType="5"
-  DTS:VersionBuild="26"
-  DTS:VersionGUID="{A3E31028-E952-4457-870A-B94886ED5C3E}">
+  DTS:VersionBuild="27"
+  DTS:VersionGUID="{D8ADEFDE-3928-4333-AB94-89456E7699A0}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -106,7 +106,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="CurrentDateTime">
       <DTS:VariableValue
-        DTS:DataType="7">10/27/2024 5:04:01 PM</DTS:VariableValue>
+        DTS:DataType="7">10/27/2024 5:25:24 PM</DTS:VariableValue>
     </DTS:Variable>
   </DTS:Variables>
   <DTS:Executables>
@@ -117,7 +117,6 @@
       DTS:DTSID="{321EFF9B-254A-48FD-B5DE-3B8FD098254D}"
       DTS:ExecutableType="STOCK:FOREACHLOOP"
       DTS:LocaleID="-1"
-      DTS:MaxErrorCount="200"
       DTS:ObjectName="Foreach Loop Container">
       <DTS:ForEachEnumerator
         DTS:CreationName="Microsoft.ForEachFileEnumerator"
